@@ -1,3 +1,7 @@
+This is the licence for the fork of the minetest game, located at https://github.com/minetest/minetest_game .
+Any modifications made by me (samarth-ramesh) are licenced under the GNU LESSER GENERAL PUBLIC LICENSE.
+Any content inherited from the original source remain under their own licence.
+
 License of media (textures and sounds)
 --------------------------------------
 Copyright (C) 2010-2012 celeron55, Perttu Ahola <celeron55@gmail.com>
